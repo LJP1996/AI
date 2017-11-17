@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 遥控按键要发送的数据 -->
+	<integer name="data_up">0x04</integer>
+	<integer name="data_down">0x07</integer>
+	<integer name="data_left">0x05</integer>
+	<integer name="data_right">0x06</integer>
+	<integer name="data_center">0x08</integer>
+	<integer name="data_up1">0x03</integer>
+	<integer name="data_down1">0x02</integer>
+	<integer name="data_left1">0x05</integer>
+	<integer name="data_right1">0x06</integer>
+	<integer name="data_center1">0x01</integer>
+</resources>

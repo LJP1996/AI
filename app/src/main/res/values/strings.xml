@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 标题、菜单信息 -->
+    <string name="app_name">LJP</string>
+    <string name="action_about"> 关于软件 </string>
+    <string name="action_search"> 连接服务器 </string>
+    <string name="action_exit"> 退出程序  </string>
+    <string name="prompt">IP：192.168.123.169\nPORT:8080\n状态：未连接 </string>
+    <string name="prompt_direction">状态:\n</string>
+    <!-- 软件说明 -->
+    <string name="APP_improve">作者:刘嘉鹏</string>
+    <string name="APP_order">第一组（左边）按键命令代码:</string>
+    <string name="APP_order1">第二组（右边）按键命令代码:</string>
+    <!-- button text -->
+    <string name="front">卧室灯</string>
+    <string name="back">廊灯</string>
+    <string name="left">客厅灯</string>
+    <string name="right">卫生间灯</string>
+    <string name="stop">水阀灯</string>
+    <string name="data_up">+IPD,0,11:CMD_LED_1_1</string>
+    <string name="data_down">+IPD,0,11:CMD_LED_2_1</string>
+    <string name="data_left">+IPD,0,11:CMD_LED_3_1</string>
+    <string name="data_right">+IPD,0,12:CMD_BUZZER_1</string>
+    <string name="data_center">+IPD,0,16:CMD_READ_ALL_END</string>
+    <string name="data_up1">+IPD,0,11:CMD_LED_1_0</string>
+    <string name="data_down1">+IPD,0,11:CMD_LED_2_0</string>
+    <string name="data_left1">+IPD,0,11:CMD_LED_3_0</string>
+    <string name="data_right1">+IPD,0,12:CMD_BUZZER_0</string>
+    <string name="data_center1">0x01</string>
+</resources>

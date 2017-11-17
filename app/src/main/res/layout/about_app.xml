@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:screenOrientation="landscape"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="150dp"
+    android:background="#666"
+    >
+    <TextView android:id="@+id/APP_improve"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/APP_improve"
+        android:textColor="#fff"
+        android:paddingLeft="5dp"
+    />
+    <TextView android:id="@+id/APP_order"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/APP_order"
+        android:textColor="#fff"
+        android:paddingLeft="5dp"
+    />
+    <TextView android:id="@+id/APP_buttoncode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:paddingLeft="5dp"
+    />
+    <TextView android:id="@+id/APP_order1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/APP_order1"
+        android:textColor="#fff"
+        android:paddingLeft="5dp"
+    />
+    <TextView android:id="@+id/APP_buttoncode1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:paddingLeft="5dp"
+    />
+</LinearLayout>
